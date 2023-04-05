@@ -1,0 +1,34 @@
+{
+  "name": "@cybernova-clow/clowbotlist.js",
+  "version": "1.0.0",
+  "description": "A official clowbotlist.ga api.",
+  "main": "clowbotlist.js",
+  "scripts": {
+    "test": "!vote"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/@cybernova-clow/clowbotlist.js.git"
+  },
+  "keywords": [
+    "bot",
+    "list",
+    "discord",
+    "dbl",
+    "clowbotlist",
+    "api",
+    "bots",
+    "bot",
+    "vote",
+    "check",
+    "votes",
+    "control",
+    "force"
+  ],
+  "author": "@cybernova-clow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/@cybernova-clow/clowbotlist.js/issues"
+  },
+  "homepage": "https://github.com/@cybernova-clow/clowbotlist.js#readme"
+}
