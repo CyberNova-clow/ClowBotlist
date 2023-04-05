@@ -1,7 +1,7 @@
 # clowbotlist.js
 <a href="https://clow.ga/dc" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png?size=512" alt="Join our discord" width="256"></a><br>
 **Support:** [https://clow.ga/dc](https://clow.ga/dc) <br>
-**NPM:** [npmjs.com/package/clowbotlist.js](https://www.npmjs.com/package/clowbotlist.js)<br>
+**NPM:** [npmjs.com/package/clowbotlist.js](https://www.npmjs.com/package/clowbotlist)<br>
 
 ## Installation
 *If you have trouble with the installation, please feel free to visit our [discord](https://clow.g/dc) address.*
